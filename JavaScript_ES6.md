@@ -10,13 +10,17 @@
   <br>
 Example (default export):<br>
  
-  `import React, {Component} from 'React' ;`
+  ```js
+  import React, {Component} from 'React' ;
+  ```
 
   <br>
   Here, exported file look like;<br>
 
-  `export default React;
-  export Component;`
+  ```js
+  export default React;
+  export Component;
+  ```
 
 
 ## Q.2 Spread operator uses
@@ -26,20 +30,24 @@ Example (default export):<br>
 * When we use in the method argument we can pass n number of arguments to that function.
 * spread oprator always use to last argument of the function.
 
-`let arr1 = [1,2,3];   
+```js
+let arr1 = [1,2,3];   
 let arr2 = [4,5];   
 arr1 = [...arr1,...arr2];   
-console.log(arr1);`   
+console.log(arr1);
+```
 
 
 > output: [1,2,3,4,5]
 
-`const addNumber = (...args) => { 
+```js
+const addNumber = (...args) => { 
   let result = 0;
   args.forEach(ele => result += ele);
   return result;
 } 
-console.log(addNumber(1,2,3,4,5));`
+console.log(addNumber(1,2,3,4,5));
+```
 
 >output: 15
 
@@ -47,15 +55,19 @@ console.log(addNumber(1,2,3,4,5));`
 * Instead of using dot notation to access the property, we could specify the property name as variable name in the left hand side and assign the object in the right side. 
 * Mainly this will be usefull in a function parameter.
 - Example,
-`let obj = {name: 'john', age:34};
+```js
+let obj = {name: 'john', age:34};
 let {name} = obj;
-console.log(name);`
+console.log(name);
+```
 
 >output: john
 
 - Function parameter example,
-`let obj = {name: 'john', age:34};
+```js
+let obj = {name: 'john', age:34};
 function printName({name}) {
 console.log(name);
 }
-printName(obj);`
+printName(obj);
+```
