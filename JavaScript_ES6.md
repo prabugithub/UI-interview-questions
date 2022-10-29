@@ -45,9 +45,17 @@ console.log(addNumber(1,2,3,4,5));`
 
 ## Q.3 Object destructuring
 * Instead of using dot notation to access the property, we could specify the property name as variable name in the left hand side and assign the object in the right side. 
+* Mainly this will be usefull in a function parameter.
 - Example,
 `let obj = {name: 'john', age:34};
 let {name} = obj;
 console.log(name);`
 
 >output: john
+
+- Function parameter example,
+`let obj = {name: 'john', age:34};
+function printName({name}) {
+console.log(name);
+}
+printName(obj);`
