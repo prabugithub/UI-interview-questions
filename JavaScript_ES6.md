@@ -42,3 +42,12 @@ console.log(arr1);`
 console.log(addNumber(1,2,3,4,5));`
 
 >output: 15
+
+## Q.3 Object destructuring
+* Instead of using dot notation to access the property, we could specify the property name as variable name in the left hand side and assign the object in the right side. 
+- Example,
+`let obj = {name: 'john', age:34};
+let {name} = obj;
+console.log(name);`
+
+>output: john
