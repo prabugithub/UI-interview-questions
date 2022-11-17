@@ -21,7 +21,7 @@
 [flex box tricks](https://css-tricks.com/responsive-layouts-fewer-media-queries/)
 [demo](https://codepen.io/t_afif/pen/wvgVVPN)
 
-[flex simple demo](https://www.w3schools.com/cssref/playdemo.php?filename=playcss_flex-direction)
+[css simple play demo](https://www.w3schools.com/cssref/playdemo.php?filename=playcss_flex-direction)
 
 html,
 ```html
