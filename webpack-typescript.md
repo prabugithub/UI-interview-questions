@@ -1,4 +1,4 @@
-# (webpack builder for typescript)[https://blog.logrocket.com/using-webpack-typescript/]
+# [webpack builder for typescript](https://blog.logrocket.com/using-webpack-typescript/)
 
 
 Using webpack with TypeScript
