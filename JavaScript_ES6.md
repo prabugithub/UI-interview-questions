@@ -4,6 +4,10 @@
 
 [Q.2 Spread operator uses](https://github.com/prabugithub/UI-interview-questions/blob/main/JavaScript_ES6.md#q2-spread-operator-uses)
 
+[Q.3 Object destructuring](https://github.com/prabugithub/UI-interview-questions/blob/main/JavaScript_ES6.md#q1-how-default-export-behave-rather-than-normal-export)
+
+[Advanced features of JS](https://github.com/prabugithub/UI-interview-questions/edit/main/JavaScript_ES6.md#q4-advanced-features-of-javascript)
+
 ## Q.1 How default export behave? rather than normal export
 
 * We can have only one default export in the file.<br>
