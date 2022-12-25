@@ -1,5 +1,6 @@
 # javascript-interview-questions
 
+(Q.1 How default export behave? rather than normal export)[https://github.com/prabugithub/UI-interview-questions/blob/main/JavaScript_ES6.md#q1-how-default-export-behave-rather-than-normal-export]
 
 ## Q.1 How default export behave? rather than normal export
 
