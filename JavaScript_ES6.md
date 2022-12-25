@@ -238,6 +238,7 @@ x ||= 5; // x=10
 
 let y = 0;
 y||=5; // y=5
+```
 
 ### 2021 ES feature
 
@@ -245,4 +246,4 @@ y||=5; // y=5
 
 - It will replace all the occurance of the sentances.
 
-```
+
