@@ -1,6 +1,7 @@
 # javascript-interview-questions
 
-(Q.1 How default export behave? rather than normal export)[https://github.com/prabugithub/UI-interview-questions/blob/main/JavaScript_ES6.md#q1-how-default-export-behave-rather-than-normal-export]
+[Q.1 How default export behave? rather than normal export](https://github.com/prabugithub/UI-interview-questions/blob/main/JavaScript_ES6.md#q1-how-default-export-behave-rather-than-normal-export)
+[Q.2 Spread operator uses](https://github.com/prabugithub/UI-interview-questions/blob/main/JavaScript_ES6.md#q2-spread-operator-uses)
 
 ## Q.1 How default export behave? rather than normal export
 
