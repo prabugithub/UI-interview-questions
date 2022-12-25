@@ -1,10 +1,10 @@
 # javascript-interview-questions
 
-[Q.1 How default export behave? rather than normal export](https://github.com/prabugithub/UI-interview-questions/blob/main/JavaScript_ES6.md#q1-how-default-export-behave-rather-than-normal-export)
+[How default export behave? rather than normal export](https://github.com/prabugithub/UI-interview-questions/blob/main/JavaScript_ES6.md#q1-how-default-export-behave-rather-than-normal-export)
 
-[Q.2 Spread operator uses](https://github.com/prabugithub/UI-interview-questions/blob/main/JavaScript_ES6.md#q2-spread-operator-uses)
+[Spread operator uses](https://github.com/prabugithub/UI-interview-questions/blob/main/JavaScript_ES6.md#q2-spread-operator-uses)
 
-[Q.3 Object destructuring](https://github.com/prabugithub/UI-interview-questions/blob/main/JavaScript_ES6.md#q3-object-destructuring)
+[Object destructuring](https://github.com/prabugithub/UI-interview-questions/blob/main/JavaScript_ES6.md#q3-object-destructuring)
 
 [Advanced features of JS](https://github.com/prabugithub/UI-interview-questions/blob/main/JavaScript_ES6.md#q4-advanced-features-of-javascript)
 
