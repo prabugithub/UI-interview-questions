@@ -72,7 +72,7 @@ console.log(name);
 printName(obj);
 ```
 
-## Q.4 Advanced concepts
+## Q.4 Advanced features of JavaScript
 * Exponential operator *
 > \**= this will acting as exponential assignment operator
 > x ** y produces the same result as Math.pow(x, y):
